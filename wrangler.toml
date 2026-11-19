@@ -1,0 +1,8 @@
+name = "kyounani-tsukuru"
+compatibility_date = "2026-11-16"
+pages_build_output_dir = "."
+
+[[d1_databases]]
+binding = "DB"
+database_name = "kyounani-tsukuru-db"
+database_id = "ここにD1のDatabase IDを入力"

@@ -1,0 +1,56 @@
+[
+  {
+    "id": "chicken-teriyaki",
+    "title": "鶏の照り焼き",
+    "category": "肉",
+    "time": "約20分",
+    "description": "甘辛いたれでご飯がすすむ定番おかず。",
+    "source": "レシピを探す",
+    "url": "https://www.google.com/search?q=%E9%B6%8F%E3%81%AE%E7%85%A7%E3%82%8A%E7%84%BC%E3%81%8D+%E3%83%AC%E3%82%B7%E3%83%94"
+  },
+  {
+    "id": "pork-ginger",
+    "title": "豚の生姜焼き",
+    "category": "肉",
+    "time": "約15分",
+    "description": "身近な材料で作りやすい人気の定番料理。",
+    "source": "レシピを探す",
+    "url": "https://www.google.com/search?q=%E8%B1%9A%E3%81%AE%E7%94%9F%E5%A7%9C%E7%84%BC%E3%81%8D+%E3%83%AC%E3%82%B7%E3%83%94"
+  },
+  {
+    "id": "hamburg-steak",
+    "title": "ハンバーグ",
+    "category": "肉",
+    "time": "約30分",
+    "description": "夕食の主役にぴったりの家庭料理。",
+    "source": "レシピを探す",
+    "url": "https://www.google.com/search?q=%E3%83%8F%E3%83%B3%E3%83%90%E3%83%BC%E3%82%B0+%E3%83%AC%E3%82%B7%E3%83%94"
+  },
+  {
+    "id": "salmon-miso",
+    "title": "鮭の味噌焼き",
+    "category": "魚",
+    "time": "約20分",
+    "description": "味噌のコクでご飯によく合う魚料理。",
+    "source": "レシピを探す",
+    "url": "https://www.google.com/search?q=%E9%AE%AD%E3%81%AE%E5%91%B3%E5%99%8C%E7%84%BC%E3%81%8D+%E3%83%AC%E3%82%B7%E3%83%94"
+  },
+  {
+    "id": "napolitan",
+    "title": "ナポリタン",
+    "category": "麺",
+    "time": "約20分",
+    "description": "ケチャップ味で親しみやすい定番パスタ。",
+    "source": "レシピを探す",
+    "url": "https://www.google.com/search?q=%E3%83%8A%E3%83%9D%E3%83%AA%E3%82%BF%E3%83%B3+%E3%83%AC%E3%82%B7%E3%83%94"
+  },
+  {
+    "id": "oyakodon",
+    "title": "親子丼",
+    "category": "ご飯",
+    "time": "約15分",
+    "description": "鶏肉と卵で手早く作れる丼メニュー。",
+    "source": "レシピを探す",
+    "url": "https://www.google.com/search?q=%E8%A6%AA%E5%AD%90%E4%B8%BC+%E3%83%AC%E3%82%B7%E3%83%94"
+  }
+]
